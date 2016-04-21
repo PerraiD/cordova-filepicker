@@ -12,9 +12,9 @@
 	<platform name="ios">
 		<plugins-plist key="Filepicker" />
 
-		<header-file src="src/ios/CDVFilepicker.h" />
+		<header-file src="CDVFilepicker.h" />
 
-		<source-file src="src/ios/CDVFilepicker.m" />
+		<source-file src="CDVFilepicker.m" />
 	</platform>
 
 </plugin>
